@@ -20,7 +20,7 @@ guitar-face = "guitar_face.app:main"
 [dependency-groups]
 dev = [
     "pyinstaller==6.22.2",
-    "pytest>=8.3,<9",
+    "pytest>=8.3,<10",
     "pytest-qt>=4.4,<5",
 ]
 
