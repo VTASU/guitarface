@@ -7,7 +7,7 @@ requires-python = ">=3.12,<3.13"
 license = { file = "LICENSE" }
 authors = [{ name = "Guitar Face contributors" }]
 dependencies = [
-    "mediapipe==0.10.21",
+    "mediapipe==1.0.1",
     "numpy>=1.26,<2",
     "platformdirs>=4.3,<5",
     "pyside6==6.11.2",
