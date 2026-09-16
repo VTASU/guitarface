@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Build outputs
+build/
+dist/
+*.spec.bak
+
+# Downloaded third-party model
+assets/face_landmarker.task
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
